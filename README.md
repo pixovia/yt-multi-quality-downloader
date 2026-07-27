@@ -1,5 +1,7 @@
 # 🚀 YouTube Advanced Downloader (Google Colab)
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pixovia/yt-multi-quality-downloader/blob/main/Yt_multi_quality_downloader.ipynb)
+
 A powerful, interactive, and user-friendly Google Colab notebook for downloading YouTube videos in various formats and qualities. Powered by `yt-dlp`.
 
 ## ✨ Features
